@@ -24,8 +24,11 @@ When the 9-to-5 world clocks out, my real work begins.
 🛠️ My 2024 Arsenal
 
 Elixir/Phoenix (for when Rails feels too mainstream)
+
 HTMX + Alpine.js (the sane way to do frontend)
+
 Tailwind CSS
+
 Supabase (PostgreSQL without the headache)
 
 ▸ Singul.ai - AI playground for builders 
