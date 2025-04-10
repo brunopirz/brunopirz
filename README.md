@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 📍 Digital Nomad | ✉️ brunopira@gmail.com | 🌐 brunopira.dev
 
 // I've been writing code since I was 13.
-When the 9-to-5 world clocks out, my real work begins. 
+
 
 🛠️ My 2024 Arsenal
 
