@@ -29,6 +29,9 @@ HTMX + Alpine.js (the sane way to do frontend)
 
 Tailwind CSS
 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopirz&layout=compact&theme=dracula)
+
+
 Supabase (PostgreSQL without the headache)
 
 ▸ Singul.ai - AI playground for builders 
