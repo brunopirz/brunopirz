@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌙 Nocturnal Builder | 💻 Full-Stack dev | 🚀 Singul.ai Founder
+
 📍 Digital Nomad | ✉️ brunopira@gmail.com | 🌐 brunopira.dev
 
 // I've been writing code since I was 13.
