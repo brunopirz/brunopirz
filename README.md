@@ -29,9 +29,6 @@ HTMX + Alpine.js (the sane way to do frontend)
 
 Tailwind CSS
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopirz&layout=compact&theme=dracula)
-
-
 Supabase (PostgreSQL without the headache)
 
 ▸ Singul.ai - AI playground for builders 
@@ -39,3 +36,5 @@ Supabase (PostgreSQL without the headache)
 🎓 BSc Computer Science (2013-2017)
 
 🏗️ Production-Grade Stack: Faster than you can schedule a meeting about it
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopirz&layout=compact&theme=dracula)
