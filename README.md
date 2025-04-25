@@ -15,26 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌙 Nocturnal Builder | 💻 Full-Stack dev | 🚀 Singul.ai Founder
-
 📍 Digital Nomad | ✉️ brunopira@gmail.com | 🌐 brunopira.dev
 
 // I've been writing code since I was 13.
 
-
-🛠️ My 2024 Arsenal
-
-Elixir/Phoenix (for when Rails feels too mainstream)
-
-HTMX + Alpine.js (the sane way to do frontend)
-
-Tailwind CSS
-
-Supabase (PostgreSQL without the headache)
+* Elixir/Phoenix (for when Rails feels too mainstream)
+* HTMX + Alpine.js (the sane way to do frontend)
+* Tailwind CSS
+* Supabase (PostgreSQL without the headache)
 
 ▸ Singul.ai - AI playground for builders 
 
 🎓 BSc Computer Science (2013-2017)
-
 🏗️ Production-Grade Stack: Faster than you can schedule a meeting about it
 
 
