@@ -37,6 +37,6 @@ Supabase (PostgreSQL without the headache)
 
 🏗️ Production-Grade Stack: Faster than you can schedule a meeting about it
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopirz&layout=compact&theme=dracula))](https://github.com/brunopirz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopirz&layout=compact&theme=transparent))](https://github.com/brunopirz/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=brunopirz)](https://github.com/brunopirz/github-readme-stats)
